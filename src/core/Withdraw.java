@@ -7,4 +7,6 @@ public class Withdraw {
     // $$$
 
     // money in slot
+
+    // upadate later
 }
